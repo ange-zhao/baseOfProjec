@@ -1,0 +1,27 @@
+//
+//  own.pch
+//  MyOwn
+//
+//  Created by 赵安吉 on 15/10/12.
+//  Copyright © 2015年 赵安吉. All rights reserved.
+//
+
+#ifndef own_pch
+#define own_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* own_pch */
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "AppDelegate.h"
+#import "Constant.h"
+#import "ITTAdditions.h"
+#import "CheckUtil.h"
+#import "CheckIsRight.h"
+#import "MJRefresh.h"
+#import "AFNetworking.h"
+#import "UIDevice+IdentifierAddition.h"
+#import "NSString+MD5Addition.h"
+#import "UIUtil.h"
