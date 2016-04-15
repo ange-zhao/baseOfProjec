@@ -351,11 +351,6 @@
                                         <color key="textColor" white="0.5" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="GaL-iU-Xc2">
-                                        <rect key="frame" x="88" y="70" width="144" height="144"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <state key="normal" image="btn_Call.png"/>
-                                    </button>
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </view>
@@ -731,7 +726,6 @@
     <resources>
         <image name="background_-Row.png" width="750" height="90"/>
         <image name="background_UserFace_bg.png" width="750" height="309"/>
-        <image name="btn_Call.png" width="337" height="337"/>
         <image name="huer.jpg" width="1024" height="576"/>
         <image name="icon_-Arrow.png" width="14" height="24"/>
         <image name="icon_Male.png" width="33" height="33"/>
